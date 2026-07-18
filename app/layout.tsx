@@ -8,13 +8,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "CipherScope｜OKX 加密资产投研终端",
     description: "实时筛选、X 动态研究与三个月情景分析。",
-    images: [{ url: "/og.png", width: 1672, height: 941, alt: "CipherScope 加密资产投研终端" }],
+    images: [{ url: "/og-3x2.png", width: 1500, height: 1000, alt: "CipherScope 加密资产投研终端" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "CipherScope｜OKX 加密资产投研终端",
     description: "实时筛选、X 动态研究与三个月情景分析。",
-    images: ["/og.png"],
+    images: ["/og-3x2.png"],
   },
 };
 
